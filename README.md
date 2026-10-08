@@ -9,7 +9,7 @@ Ejecuta los scripts en este orden:
 
 | #    | Archivo                    | Contenido                                                    |
 | ---- | -------------------------- | ------------------------------------------------------------ |
-| 1    | `02_reservas_externas.sql` | Tabla `ReservasExternas`, procedimiento `sp_importar_reserva_externa`, datos de prueba y verificación. |
+| 1    | `1892-examen.sql`          | Tabla `ReservasExternas`, procedimiento `sp_importar_reserva_externa`, datos de prueba y verificación. |
 
 
 
